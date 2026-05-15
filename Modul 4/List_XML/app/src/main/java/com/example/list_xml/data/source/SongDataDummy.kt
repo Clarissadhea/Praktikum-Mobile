@@ -1,0 +1,81 @@
+package com.example.list_xml.data.source
+
+import com.example.list_xml.R
+import com.example.list_xml.domain.model.Song
+
+object SongDataDummy {
+    val dummySongs = listOf(
+        Song(
+            1,
+            "Rains in Heaven",
+            "NCT Dream",
+            "DREAMSCAPE",
+            "2024",
+            R.drawable.dreamscape,
+            "https://open.spotify.com/track/7wbCCV6egMJvylohgaRFCO?si=45142aef7b3f4eec"
+        ),
+        Song(
+            2,
+            "Lost and Found",
+            "Xdinary Heroes",
+            "LXVE to DEATH",
+            "2025",
+            R.drawable.lxvetodeath,
+            "https://open.spotify.com/track/5TCoMwP1pPB9BSRIw86IvX?si=54f1dc56c0bd4ae4"
+        ),
+        Song(
+            3,
+            "Still",
+            "DAY6",
+            "Shoot Me: Youth Part 1",
+            "2018",
+            R.drawable.shootme,
+            "https://open.spotify.com/track/2vtAf3rLV9i96x2z8n8N0V?si=81645764c4024e21"
+        ),
+        Song(
+            4,
+            "Dust",
+            "Seventeen",
+            "FML",
+            "2023",
+            R.drawable.fml,
+            "https://open.spotify.com/track/7v8v911KfBuFkqXvuDOtNm?si=91e8386386164085"
+        ),
+        Song(
+            5,
+            "Blue Valentine",
+            "NMIXX",
+            "Blue Valentine",
+            "2025",
+            R.drawable.bluevalentine,
+            "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh?si=ce4acfd026ce4e6f"
+        ),
+        Song(
+            6,
+            "Interaksi",
+            "Tulus",
+            "Manusia",
+            "2022",
+            R.drawable.manusia,
+            "https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP?si=9ef9620aa3ec49ed"
+        ),
+        Song(
+            7,
+            "The Cut That Always Bleeds",
+            "Conan Gray",
+            "Kid Krow",
+            "2020",
+            R.drawable.kidkrow,
+            "https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd?si=a355480cd535410e"
+        ),
+        Song(
+            8,
+            "Yank",
+            "WALI",
+            "Cari Jodoh",
+            "2009",
+            R.drawable.carijodoh,
+            "https://open.spotify.com/track/0C3xZJueyBvvMSsl0cETA6?si=bc550f44d6ba4206"
+        )
+    )
+}

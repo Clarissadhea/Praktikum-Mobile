@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List_Compose</string>
+    <string name="title_top_5">The Top 5</string>
+    <string name="title_all_songs">Semua Lagu</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_listen">Dengarkan</string>
+    <string name="cd_album_cover">Album Cover</string>
+    <string name="label_release_year">Tahun Rilis:</string>
+    <string name="error_song_not_found">Lagu tidak ditemukan</string>
+    <string name="label_album">Album: %1$s</string>
+</resources>
